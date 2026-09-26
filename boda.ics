@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sara y Dani//Boda//ES
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:boda-sara-dani-20270508@danimonarc.github.io
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:Boda de Sara y Dani
+LOCATION:Jardines del Trapiche\, Vélez-Málaga
+DESCRIPTION:¡Nos casamos! La hora exacta os la confirmaremos pronto.\nhttps://saraydani.es/
+END:VEVENT
+END:VCALENDAR
